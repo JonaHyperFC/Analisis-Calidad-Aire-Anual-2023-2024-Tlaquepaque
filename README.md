@@ -60,8 +60,8 @@ python src/02_comparacion.py     # gráficas 2024 vs. 2023 (figures/) y tabla me
 - [x] Pipeline NOM-172 para 2023 y 2024
 - [x] Comparación 2024 vs. 2023 (gráficas F1 a F6, F8)
 - [x] Relación con variables meteorológicas (F7)
-- [ ] Dashboard
-- [ ] Reporte PDF y bitácora del líder
+- [x] Dashboard
+- [x] Reporte PDF y bitácora del líder
 
 ## Fuente de los datos
 
